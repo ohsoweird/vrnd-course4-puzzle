@@ -1,12 +1,16 @@
-# vrnd-course4-starter-project-000
+# Project VRND04 - Puzzle
 
-Project VR04 - Building a VR puzzle within an ancient castle
-
-In this game the player is situated in an ancient castle. By solving a puzzle he/she will be able to exit on the other side of the room and continue to the mountains.
+VRND is a VR puzzle game in which the player is situated in an ancient castle. By solving a puzzle he or she will be able to exit on the other side of the room and if the player wishes - restart the game.
 
 
-Update/s:
+## Installation
 
-Version 1.1 - 2016-12-12 Fix: change of scale to assets within 3d scene, addeed lighting.
+Download the GitHub repository and open the project with Unity.
+This project has been developed with: Unity version 5.5.0f3 (38b4efef76f0)
+
+
+## Updates
+
+Version 1.1 - 2016-12-12 Fix: change of scale to assets within 3d scene, added lighting.
 
 Version 1.0 - 2016-12-23 Initial project with scene and 3D assets.
