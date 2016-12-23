@@ -5,7 +5,7 @@ VRND is a VR puzzle game in which the player is situated in an ancient castle. B
 
 ## Installation
 
-Download the GitHub repository and open the project with Unity.
+Download the GitHub repository and open the project with Unity from http://unity3d.com/
 This project has been developed with: Unity version 5.5.0f3 (38b4efef76f0)
 
 
